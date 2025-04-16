@@ -4,7 +4,7 @@
 
 <p align="center">
   I'm a student of <strong>Data Science</strong> and <strong>Artificial Intelligence</strong>, passionate about uncovering insights from data and building intelligent solutions.  
-  I love learning by doing — my recent small project was a Python puzzle game, but my main focus is on <strong>machine learning</strong>, <strong>data analysis</strong>, and <strong>data-driven development</strong>.
+  I love learning by doing! My main focus is on <strong>machine learning</strong>, <strong>data analysis</strong>, and <strong>data-driven development</strong>.
 </p>
 
 ---
