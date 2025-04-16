@@ -11,7 +11,7 @@
 
 ### 🧠 About Me
 
-- Currently studying **Artificial Intelligence and Data Science**
+- Currently studying **Artificial Intelligence and Data Science** at **Faculdade de Engenharia da Universidade do Porto** (FEUP)
 - Passionate about **machine learning**, **data analysis**, and **automation**
 - Always looking for ways to apply theory through real-world projects
 
@@ -30,6 +30,16 @@
 ![rdtg94's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rdtg94&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdtg94&layout=compact&theme=dracula)
+
+---
+
+### 🏆 Extra GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=rdtg94&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rdtg94&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=rdtg94)
 
 ---
 
