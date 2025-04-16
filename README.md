@@ -27,19 +27,11 @@
 
 ### 📊 GitHub Stats
 
+![Profile Views](https://komarev.com/ghpvc/?username=rdtg94&color=blueviolet&style=flat)
+
 ![rdtg94's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rdtg94&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdtg94&layout=compact&theme=dracula)
-
----
-
-### 🏆 Extra GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rdtg94&theme=dracula)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=rdtg94&theme=dracula&title=Stars,Commits,Repositories,PullRequest,Issues&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Profile Views](https://komarev.com/ghpvc/?username=rdtg94&color=blueviolet&style=flat)
 
 ---
 
