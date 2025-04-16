@@ -35,11 +35,11 @@
 
 ### 🏆 Extra GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=rdtg94&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rdtg94&theme=dracula)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rdtg94&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rdtg94&theme=dracula&title=Stars,Commits,Repositories,PullRequest,Issues&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=rdtg94)
+![Profile Views](https://komarev.com/ghpvc/?username=rdtg94&color=blueviolet&style=flat)
 
 ---
 
